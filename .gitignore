@@ -1,0 +1,5 @@
+#this file will list every file and folder
+#to be excluded from the git
+
+credentials.txt
+media/
